@@ -1,0 +1,22 @@
+[
+  {"timestamp": "2023-06-22T10:30:45Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:31:00Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:31:15Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:31:30Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:31:45Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:32:00Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:32:15Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:32:30Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:32:45Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:33:00Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:33:15Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:33:30Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:33:45Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:34:00Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:34:15Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:34:30Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:34:45Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:35:00Z", "fall_detected": true},
+  {"timestamp": "2023-06-22T10:35:15Z", "fall_detected": false},
+  {"timestamp": "2023-06-22T10:35:30Z", "fall_detected": false}
+]

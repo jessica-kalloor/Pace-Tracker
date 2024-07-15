@@ -1,0 +1,23 @@
+[
+    {"timestamp": "2023-06-22T10:30:45Z", "cadence": 100},
+    {"timestamp": "2023-06-22T10:31:00Z", "cadence": 102},
+    {"timestamp": "2023-06-22T10:31:15Z", "cadence": 95},
+    {"timestamp": "2023-06-22T10:31:30Z", "cadence": 117},
+    {"timestamp": "2023-06-22T10:31:45Z", "cadence": 100},
+    {"timestamp": "2023-06-22T10:32:00Z", "cadence": 92},
+    {"timestamp": "2023-06-22T10:32:15Z", "cadence": 95},
+    {"timestamp": "2023-06-22T10:32:30Z", "cadence": 97},
+    {"timestamp": "2023-06-22T10:32:45Z", "cadence": 100},
+    {"timestamp": "2023-06-22T10:33:00Z", "cadence": 102},
+    {"timestamp": "2023-06-22T10:33:15Z", "cadence": 105},
+    {"timestamp": "2023-06-22T10:33:30Z", "cadence": 107},
+    {"timestamp": "2023-06-22T10:33:45Z", "cadence": 110},
+    {"timestamp": "2023-06-22T10:34:00Z", "cadence": 120},
+    {"timestamp": "2023-06-22T10:34:15Z", "cadence": 115},
+    {"timestamp": "2023-06-22T10:34:30Z", "cadence": 107},
+    {"timestamp": "2023-06-22T10:34:45Z", "cadence": 100},
+    {"timestamp": "2023-06-22T10:35:00Z", "cadence": 0},
+    {"timestamp": "2023-06-22T10:35:15Z", "cadence": 95},
+    {"timestamp": "2023-06-22T10:35:30Z", "cadence": 97}
+]
+  

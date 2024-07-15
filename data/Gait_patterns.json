@@ -1,0 +1,22 @@
+[
+  {"timestamp": "2023-06-22T10:30:45Z", "acceleration": 1.2, "angular_velocity": 30},
+  {"timestamp": "2023-06-22T10:31:00Z", "acceleration": 1.3, "angular_velocity": 35},
+  {"timestamp": "2023-06-22T10:31:15Z", "acceleration": 1.5, "angular_velocity": 40},
+  {"timestamp": "2023-06-22T10:31:30Z", "acceleration": 1.6, "angular_velocity": 45},
+  {"timestamp": "2023-06-22T10:31:45Z", "acceleration": 1.7, "angular_velocity": 50},
+  {"timestamp": "2023-06-22T10:32:00Z", "acceleration": 1.8, "angular_velocity": 55},
+  {"timestamp": "2023-06-22T10:32:15Z", "acceleration": 1.9, "angular_velocity": 60},
+  {"timestamp": "2023-06-22T10:32:30Z", "acceleration": 2.0, "angular_velocity": 65},
+  {"timestamp": "2023-06-22T10:32:45Z", "acceleration": 2.1, "angular_velocity": 70},
+  {"timestamp": "2023-06-22T10:33:00Z", "acceleration": 2.2, "angular_velocity": 75},
+  {"timestamp": "2023-06-22T10:33:15Z", "acceleration": 2.3, "angular_velocity": 80},
+  {"timestamp": "2023-06-22T10:33:30Z", "acceleration": 2.4, "angular_velocity": 85},
+  {"timestamp": "2023-06-22T10:33:45Z", "acceleration": 2.5, "angular_velocity": 90},
+  {"timestamp": "2023-06-22T10:34:00Z", "acceleration": 2.6, "angular_velocity": 95},
+  {"timestamp": "2023-06-22T10:34:15Z", "acceleration": 2.7, "angular_velocity": 100},
+  {"timestamp": "2023-06-22T10:34:30Z", "acceleration": 2.8, "angular_velocity": 105},
+  {"timestamp": "2023-06-22T10:34:45Z", "acceleration": 2.9, "angular_velocity": 110},
+  {"timestamp": "2023-06-22T10:35:00Z", "acceleration": 3.0, "angular_velocity": 115},
+  {"timestamp": "2023-06-22T10:35:15Z", "acceleration": 3.1, "angular_velocity": 120},
+  {"timestamp": "2023-06-22T10:35:30Z", "acceleration": 3.2, "angular_velocity": 125}
+]

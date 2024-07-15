@@ -1,0 +1,22 @@
+[
+  {"timestamp": "2023-06-22T10:30:45Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:31:00Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:31:15Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:31:30Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:31:45Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:32:00Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:32:15Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:32:30Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:32:45Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:33:00Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:33:15Z", "gait_pattern": "normal"},
+  {"timestamp": "2023-06-22T10:33:30Z", "gait_pattern": "shuffling"},
+  {"timestamp": "2023-06-22T10:33:45Z", "gait_pattern": "shuffling"},
+  {"timestamp": "2023-06-22T10:34:00Z", "gait_pattern": "shuffling"},
+  {"timestamp": "2023-06-22T10:34:15Z", "gait_pattern": "shuffling"},
+  {"timestamp": "2023-06-22T10:34:30Z", "gait_pattern": "freezing"},
+  {"timestamp": "2023-06-22T10:34:45Z", "gait_pattern": "freezing"},
+  {"timestamp": "2023-06-22T10:35:00Z", "gait_pattern": "freezing"},
+  {"timestamp": "2023-06-22T10:35:15Z", "gait_pattern": "freezing"},
+  {"timestamp": "2023-06-22T10:35:30Z", "gait_pattern": "freezing"}
+]
