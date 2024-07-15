@@ -2,6 +2,8 @@
 ## INTRO
 This device can be beneficial to everyone, but I started this project based off those experiencing Parkinson’s. Sonifying walking routes for people with Parkinson's disease by creating auditory cues helps them navigate and maintain their mobility more effectively. The need for sonifying walking routes for individuals with Parkinson's disease stems from the specific challenges they face related to mobility and spatial awareness. Parkinson's disease is a neurodegenerative disorder that can cause various motor symptoms, including gait disturbances, freezing of gait, and difficulty with turns and obstacles. These symptoms can significantly impact a person's ability to walk safely and independently.
 
+![alt_text](https://github.gatech.edu/jkalloor6/AlzheimerDetection/blob/main/sim.png?raw=true)
+
 ## System Components
 ### Hardware
 A smartphone or wearable device equipped with motion sensors to capture the user’s movement data 
